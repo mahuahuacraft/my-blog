@@ -1,12 +1,12 @@
 ---
-title:日语词汇1（星期）
-descrdescription:星期一到星期天
-pubDatetime:2026-03-2200T:19:31Z
-featured:flase
+title: 日语词汇1（星期）
+description: 星期一到星期天
+pubDatetime: 2026-03-22T19:31:00Z
+featured: false
 tags:
   - 日语
   - 词汇
-   ---
+---
 
 ## 月曜日 **完全可以拆解！**
 
