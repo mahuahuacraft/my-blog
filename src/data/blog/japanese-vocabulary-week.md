@@ -41,7 +41,7 @@ tags:
 
 
 
-![alt](MY-BLOG/src/assets/images/image.png)
+![alt](../../assets/images/image.png)
 句子：ここは（　　）です。べんきょうできません。
 **这里很（___）。没法学习。**
 
