@@ -27,11 +27,11 @@ tags:
 ### 目录结构：
 ```
 project/
-├── content/
-│   └── posts/
-│       ├── 2024-01-01-my-first-post.md
-│       ├── 2024-01-15-second-post.md
-│       └── 2024-02-01-third-post.md
+├── src/data/blog
+│             └── ├── 2024-01-01-my-first-post.md
+│                 ├── 2024-01-15-second-post.md
+│                 └── 2024-02-01-third-post.md
+│       
 ├── src/
 └── ...
 ```
