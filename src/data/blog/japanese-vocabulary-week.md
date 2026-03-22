@@ -1,7 +1,7 @@
 ---
 title: 日语词汇1（星期）
 description: 星期一到星期天
-pubDatetime: 2026-03-21T19:31:00Z
+pubDatetime: 2025-03-21T19:31:00Z
 featured: false
 draft: false
 tags:
